@@ -1,0 +1,31 @@
+{
+  "components": {
+    "Select": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "textFontFamily": "Tiro-Italic"
+          }
+        }
+      }
+    },
+    "SelectItem": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "textFontFamily": "Tiro-Italic"
+          }
+        }
+      }
+    },
+    "Button": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "text-font-family": "Tiro-Italic"
+          }
+        }
+      }
+    }
+  }
+}

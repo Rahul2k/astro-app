@@ -1,0 +1,125 @@
+{
+    "response" : {
+       "Aries": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Leo",
+            "lucky_time": "6pm",
+            "lucky_number": "9",
+            "color": "Fiery Red",
+            "date_range": "March 21 - April 19",
+            "mood": "Energetic",
+            "description": "Your natural leadership shines today. Take charge of a project and you'll find success is just around the corner."
+        },
+        "Taurus": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Virgo",
+            "lucky_time": "2pm",
+            "lucky_number": "5",
+            "color": "Forest Green",
+            "date_range": "April 20 - May 20",
+            "mood": "Grounded",
+            "description": "Find comfort in your routines. A quiet, peaceful day will recharge your batteries for the week ahead."
+        },
+        "Gemini": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Libra",
+            "lucky_time": "11am",
+            "lucky_number": "3",
+            "color": "Sunshine Yellow",
+            "date_range": "May 21 - June 21",
+            "mood": "Curious",
+            "description": "Your mind is buzzing with new ideas. A conversation with a stranger could lead to an exciting opportunity."
+        },
+        "Cancer": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Scorpio",
+            "lucky_time": "8am",
+            "lucky_number": "2",
+            "color": "Silver",
+            "date_range": "June 22 - July 22",
+            "mood": "Nurturing",
+            "description": "Focus on home and hearth today. A simple act of kindness towards a family member will be greatly appreciated."
+        },
+        "Leo": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Sagittarius",
+            "lucky_time": "1pm",
+            "lucky_number": "1",
+            "color": "Gold",
+            "date_range": "July 23 - August 22",
+            "mood": "Confident",
+            "description": "The spotlight finds you today. Don't be shy; embrace the attention and let your natural charisma win people over."
+        },
+        "Virgo": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Capricorn",
+            "lucky_time": "10am",
+            "lucky_number": "6",
+            "color": "Navy Blue",
+            "date_range": "August 23 - September 22",
+            "mood": "Productive",
+            "description": "Your attention to detail is your greatest asset. It's the perfect day to organize your space and your thoughts."
+        },
+        "Libra": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Aquarius",
+            "lucky_time": "4pm",
+            "lucky_number": "7",
+            "color": "Pastel Pink",
+            "date_range": "September 23 - October 23",
+            "mood": "Harmonious",
+            "description": "Seek balance in all your interactions. A diplomatic approach will help you solve a tricky situation with ease."
+        },
+        "Scorpio": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Pisces",
+            "lucky_time": "9pm",
+            "lucky_number": "8",
+            "color": "Maroon",
+            "date_range": "October 24 - November 22",
+            "mood": "Intense",
+            "description": "Your intuition is at an all-time high. Trust your gut feelings, especially when it comes to a financial decision."
+        },
+        "Sagittarius": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Aries",
+            "lucky_time": "3pm",
+            "lucky_number": "12",
+            "color": "Royal Purple",
+            "date_range": "November 23 - December 21",
+            "mood": "Adventurous",
+            "description": "The urge to explore is undeniable. Plan a future trip or simply try a new restaurant in your neighborhood."
+        },
+        "Capricorn": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Taurus",
+            "lucky_time": "7am",
+            "lucky_number": "4",
+            "color": "Charcoal Grey",
+            "date_range": "December 22 - January 19",
+            "mood": "Ambitious",
+            "description": "Your hard work is about to pay off. Keep your focus on your long-term goals; you're closer than you think."
+        },
+        "Aquarius": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Gemini",
+            "lucky_time": "10pm",
+            "lucky_number": "11",
+            "color": "Electric Blue",
+            "date_range": "January 20 - February 18",
+            "mood": "Innovative",
+            "description": "A brilliant, out-of-the-box idea could solve a lingering problem. Don't be afraid to share your unique perspective."
+        },
+        "Pisces": {
+            "current_date": "August 25, 2025",
+            "compatibility": "Cancer",
+            "lucky_time": "5am",
+            "lucky_number": "22",
+            "color": "Sea Green",
+            "date_range": "February 19 - March 20",
+            "mood": "Dreamy",
+            "description": "Let your creativity flow. It's a wonderful day for artistic pursuits, from painting to simply daydreaming."
+        
+        }
+    }
+}
