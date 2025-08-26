@@ -10,6 +10,9 @@ This project is built with a clean, scalable architecture using React Native (Ex
 5. Modern & Customizable UI: Built with the robust UI Kitten component library, offering a sleek and consistent user experience.<br />
 6. Custom Theming: Utilizes custom fonts and a dynamic background system for a highly personalized feel.<br />
 
+### Demo of the App
+https://drive.google.com/file/d/10XUghAMH2-0M3CAJOwlHJyOyC6qn2rWN/view?usp=sharing
+<br />
  
 ## 🛠️ Setup and Installation
 
